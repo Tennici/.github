@@ -1,21 +1,21 @@
 <!--
   Tennici — organization profile README
   Lives at:  github.com/Tennici/.github  →  profile/README.md
-  The SVGs (header, divider, services, flow, footer) sit in the same profile/ folder.
+  The SVGs (header, divider, services, skills, flow, footer) sit in the same profile/ folder.
   Absolute URLs are used on purpose: relative image paths are unreliable on org profile pages.
 -->
 
 <div align="center">
 
-<img src="https://github.com/Tennici/.github/raw/main/profile/header.svg" width="100%" alt="TENNICI — code × design × motion" />
+<img src="https://github.com/Tennici/.github/raw/main/profile/header.svg" width="100%" alt="TENNICI — software × hardware × design" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=C6FF3D&center=true&vCenter=true&random=false&width=680&height=42&lines=Code%2C+design+and+motion+under+one+roof;We+build+it.+We+design+it.+We+make+it+move.;From+the+first+sketch+to+the+last+commit;Technical+by+name%2C+creative+by+choice" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=1B98E0&center=true&vCenter=true&random=false&width=720&height=42&lines=Software%2C+hardware+and+design+under+one+roof;From+the+first+sketch+to+the+last+commit;Code%2C+circuits+and+pixels;Technical+by+name%2C+creative+by+choice" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based_in-Italy-C6FF3D?style=for-the-badge&logo=googlemaps&logoColor=05070D&labelColor=0B1124" alt="Based in Italy" />
-<img src="https://img.shields.io/badge/Code_×_Design-one_team-2DE2E6?style=for-the-badge&logo=stackblitz&logoColor=05070D&labelColor=0B1124" alt="Code × Design" />
-<img src="https://img.shields.io/badge/Open_to-new_projects-4361FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0B1124" alt="Open to new projects" />
+<img src="https://img.shields.io/badge/Based_in-Italy-1B98E0?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=13293D" alt="Based in Italy" />
+<img src="https://img.shields.io/badge/Software_×_Hardware-one_team-247BA0?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=13293D" alt="Software × Hardware" />
+<img src="https://img.shields.io/badge/Open_to-new_projects-006494?style=for-the-badge&logo=rocket&logoColor=white&labelColor=13293D" alt="Open to new projects" />
 
 <img src="https://github.com/Tennici/.github/raw/main/profile/divider.svg" width="100%" alt="" />
 
@@ -26,16 +26,18 @@
 ```yaml
 org:        Tennici
 based_in:   Italy
-what:       a small studio where software and visual design are one job, not two
+what:       a small studio where software, hardware and design are one job, not three
 we_do:
   - software & web development
+  - electronics & embedded systems
   - brand identity, graphics & editorial design
   - video editing & post-production
 skills:
   - computer science & software development
+  - hardware & electronics
   - Adobe Creative Suite
   - collaborative workflow & version control
-motto:      "Code without design ships ugly. Design without code stays a mockup."
+motto:      "Code, circuits and pixels: built by the same hands."
 ```
 
 <div align="center"><img src="https://github.com/Tennici/.github/raw/main/profile/divider.svg" width="100%" alt="" /></div>
@@ -43,36 +45,16 @@ motto:      "Code without design ships ugly. Design without code stays a mockup.
 ## ⚡ What we do
 
 <div align="center">
-<img src="https://github.com/Tennici/.github/raw/main/profile/services.svg" width="100%" alt="Build · Design · Motion" />
+<img src="https://github.com/Tennici/.github/raw/main/profile/services.svg" width="100%" alt="Build · Hardware · Design · Motion" />
 </div>
 
-<br/>
+<div align="center"><img src="https://github.com/Tennici/.github/raw/main/profile/divider.svg" width="100%" alt="" /></div>
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<br/>
-<b>⌨️ Computer Science</b>
-<br/><br/>
-<sub>Software development,<br/>programming & web</sub>
-<br/><br/>
-</td>
-<td width="34%" align="center" valign="top">
-<br/>
-<b>🎨 Adobe Creative Suite</b>
-<br/><br/>
-<sub>Graphic design, branding<br/>& video production</sub>
-<br/><br/>
-</td>
-<td width="33%" align="center" valign="top">
-<br/>
-<b>🤝 Workflow</b>
-<br/><br/>
-<sub>Teamwork, version control<br/>& delivery</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
+## 🧠 Skills
+
+<div align="center">
+<img src="https://github.com/Tennici/.github/raw/main/profile/skills.svg" width="100%" alt="Computer Science · Hardware · Adobe Creative Suite · Workflow" />
+</div>
 
 <div align="center"><img src="https://github.com/Tennici/.github/raw/main/profile/divider.svg" width="100%" alt="" /></div>
 
@@ -84,6 +66,7 @@ motto:      "Code without design ships ugly. Design without code stays a mockup.
 
 ```diff
 + One team from brief to delivery: the people who design it are the people who build it
++ Software and hardware designed together, not glued together at the end
 + Every pixel has a reason, every line of code has a review
 ! No hand-offs lost in translation, no mockups that never ship
 ```
@@ -94,12 +77,35 @@ motto:      "Code without design ships ugly. Design without code stays a mockup.
 
 <div align="center">
 
-<a href="https://github.com/Gabriele-Cortii">
-  <img src="https://github.com/Gabriele-Cortii.png?size=160" width="96" alt="Gabriele Corti" /><br/>
-  <sub><b>Gabriele Corti</b></sub>
-</a>
-<br/>
-<sub>code & design</sub>
+<table>
+<tr>
+<td align="center" width="150">
+<a href="https://github.com/Gabriele-Cortii"><img src="https://github.com/Gabriele-Cortii.png?size=200" width="84" alt="Gabriele Corti" /></a><br/>
+<b>Gabriele Corti</b><br/>
+<sub><a href="https://github.com/Gabriele-Cortii">@Gabriele-Cortii</a></sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/ahmeddolo"><img src="https://github.com/ahmeddolo.png?size=200" width="84" alt="Ahmed Damouche" /></a><br/>
+<b>Ahmed Damouche</b><br/>
+<sub><a href="https://github.com/ahmeddolo">@ahmeddolo</a></sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/andreaCederle"><img src="https://github.com/andreaCederle.png?size=200" width="84" alt="andreaCederle" /></a><br/>
+<b>Andrea Cederle</b><br/>
+<sub><a href="https://github.com/andreaCederle">@andreaCederle</a></sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/bertax29"><img src="https://github.com/bertax29.png?size=200" width="84" alt="Cristian Bertacchi" /></a><br/>
+<b>Cristian Bertacchi</b><br/>
+<sub><a href="https://github.com/bertax29">@bertax29</a></sub>
+</td>
+<td align="center" width="150">
+<a href="https://github.com/gabrielepandiani"><img src="https://github.com/gabrielepandiani.png?size=200" width="84" alt="gabrielepandiani" /></a><br/>
+<b>Gabriele Pandiani</b><br/>
+<sub><a href="https://github.com/gabrielepandiani">@gabrielepandiani</a></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -110,18 +116,12 @@ motto:      "Code without design ships ugly. Design without code stays a mockup.
 <div align="center">
 
 <a href="mailto:gabri08.corti@gmail.com">
-  <img src="https://img.shields.io/badge/Email-C6FF3D?style=for-the-badge&logo=gmail&logoColor=05070D&labelColor=0B1124" alt="Email" />
-</a>
-<a href="https://github.com/Tennici">
-  <img src="https://img.shields.io/badge/GitHub-2DE2E6?style=for-the-badge&logo=github&logoColor=05070D&labelColor=0B1124" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/gabriele-corti-321242303/">
-  <img src="https://img.shields.io/badge/LinkedIn-4361FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1124" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Write_to_us-1B98E0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=13293D" alt="Email" />
 </a>
 
 <br/><br/>
 
-<sub><b>Got something that needs to work <i>and</i> look good?</b><br/>That's exactly our kind of project.</sub>
+<sub><b>Got something that needs to work <i>and</i> look good?</b><br/>Software, hardware or both: that's exactly our kind of project.</sub>
 
 <br/><br/>
 
