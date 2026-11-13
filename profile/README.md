@@ -83,8 +83,7 @@ motto:      "Code, circuits and pixels: built by the same hands."
 <td align="center" width="220">
 <a href="https://github.com/Gabriele-Cortii"><img src="https://github.com/Gabriele-Cortii.png?size=240" width="120" alt="Gabriele Corti" /></a><br/>
 <b>Gabriele Corti</b><br/>
-<sub><a href="https://github.com/Gabriele-Cortii">@Gabriele-Cortii</a></sub><br/>
-<img src="https://img.shields.io/badge/Team-Leader-1B98E0?style=flat-square&labelColor=13293D" alt="Team Leader" />
+<sub><a href="https://github.com/Gabriele-Cortii">@Gabriele-Cortii</a></sub>
 </td>
 </tr>
 </table>
